@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\Project57\x64\Debug\Project57.exe
+D:\Workspace\cpp\Project57\x64\Debug\Project57.exe
